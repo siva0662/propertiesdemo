@@ -17,8 +17,9 @@ namespace propertiesdemo
             };
             foreach(Employee emp in employees)
             {
-                Console.WriteLine(emp);
+                Console.WriteLine(emp);   
             }
+            Console.WriteLine("apples");
         }
             
     }
